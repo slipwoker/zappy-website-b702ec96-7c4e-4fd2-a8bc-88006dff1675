@@ -1,6 +1,4 @@
-# GoFlow — Generative Engine Optimization Map
-
-> GoFlow is an operational consulting and process optimization company that transforms chaotic business operations into streamlined, controlled workflows. Unlike traditional consultants who offer abstract advice, GoFlow delivers hands-on, practical solutions — diagnosing bottlenecks, mapping processes, building clear cross-team workflows, connecting people and systems, implementing automations and CRM, and providing ongoing implementation support until the system runs independently. The brand voice is confident, direct, professional, and results-driven, speaking directly to busy executives and business owners who need clarity fast.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -48,15 +46,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About GoFlow
-GoFlow is an operational consulting and process optimization company that transforms chaotic business operations into streamlined, controlled workflows. Unlike traditional consultants who offer abstract advice, GoFlow delivers hands-on, practical solutions — diagnosing bottlenecks, mapping processes, building clear cross-team workflows, connecting people and systems, implementing automations and CRM, and providing ongoing implementation support until the system runs independently. The brand voice is confident, direct, professional, and results-driven, speaking directly to busy executives and business owners who need clarity fast.
-
-## Target Audience
-בעלי חברות, מנכ"לים, מנהלי תפעול, ארגונים ועמותות, חברות בצמיחה מהירה
-
-## Industry
-ייעוץ עסקי, אופטימיזציה תפעולית, אוטומציות ו-CRM
-
+## About Business
 ---
 
 # Additional Resources
