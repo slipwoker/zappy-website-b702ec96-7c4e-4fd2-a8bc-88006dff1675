@@ -1,0 +1,55 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+הפכו כאוס תפעולי לתהליכים חכמים ומדויקים. GoFlow מאבחנת צווארי בקבוק, בונה תהליכי עבודה, מטמיעה אוטומציות ו-CRM — ומלווה אתכם עד שהמערכת רצה לבד.
+
+### אודות
+https://example.com/about
+GoFlow היא לא עוד חברת ייעוץ עם המלצות מופשטות. אנחנו אנשי שטח שמתנסים, בונים ומיישמים — עד שהעסק שלכם עובד בדיוק כמו שצריך. הכירו את הצוות.
+
+### שירותים
+https://example.com/services
+ממיפוי תהליכים ואוטומציות ועד הטמעת CRM וניהול צוותים — GoFlow מציעה שירותים מותאמים אישית לחברות בצמיחה שרוצות שליטה מלאה בתפעול שלהן.
+
+### איך אנחנו עובדים
+https://example.com/how-we-work
+לא מתחילים לייעץ לפני שמבינים לעומק. GoFlow עובדת בשלבים ברורים: אבחון, מיפוי, בנייה, הטמעה וליווי — כך שבניית תהליכי עבודה הופכת להצלחה מדידה.
+
+### מרכז ידע
+https://example.com/knowledge-center
+מדריכים מעשיים, מאמרים מקצועיים וכלים חכמים לבעלי עסקים ומנהלים — כל מה שצריך כדי לשפר תהליכי עבודה, להטמיע אוטומציות ולהוביל צמיחה אמיתית.
+
+### צור קשר
+https://example.com/contact
+כל שינוי תפעולי מתחיל בשיחה אחת. צרו קשר עם GoFlow עוד היום — נאבחן את האתגרים שלכם ונבנה יחד מפת דרכים ברורה לעסק שעובד בלי כאוס.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
