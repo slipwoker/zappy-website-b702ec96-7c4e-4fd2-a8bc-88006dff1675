@@ -2573,16 +2573,15 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   align-items: center;
 }
 
-/* ── Card ── */
 .index-hero-section .index-hero-card {
-  background: rgba(28, 36, 48, 0.72);
+  background: rgba(28, 36, 48, 0.45);
   border: 1px solid rgba(255, 255, 255, 0.10);
   border-radius: 8px;
   padding: 48px 44px 40px;
   max-width: 620px;
   width: 100%;
   box-shadow: 0 24px 54px rgba(28, 36, 48, 0.38);
-  backdrop-filter: blur(12px);
+  backdrop-filter: blur(6px);
   -webkit-backdrop-filter: blur(12px);
   text-align: right;
 }
