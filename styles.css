@@ -12013,6 +12013,56 @@ body.accessibility-widget-visible ._access-menu {
   display: flex !important;
 }
 }
+
+@media (max-width: 768px) {
+.gf-transform-section .gf-transform-labels {
+  display: none !important;
+}
+
+.gf-transform-section .gf-transform-row {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 8px !important;
+  align-items: stretch !important;
+}
+
+.gf-transform-section .gf-transform-card {
+  width: 100% !important;
+  font-size: 14px !important;
+  padding: 14px 16px !important;
+  gap: 10px !important;
+  box-sizing: border-box !important;
+}
+
+.gf-transform-section .gf-card-before {
+  order: 1 !important;
+}
+
+.gf-transform-section .gf-transform-arrow {
+  order: 2 !important;
+  transform: rotate(90deg) !important;
+}
+
+.gf-transform-section .gf-card-after {
+  order: 3 !important;
+}
+
+.gf-transform-section .gf-transform-list {
+  gap: 20px !important;
+}
+
+.gf-transform-section .gf-transform-cta {
+  flex-direction: column !important;
+  gap: 12px !important;
+}
+
+.gf-transform-section .gf-cta-primary, .gf-transform-section .gf-cta-secondary {
+  width: 100% !important;
+  text-align: center !important;
+  justify-content: center !important;
+  display: flex !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
